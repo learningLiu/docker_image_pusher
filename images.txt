@@ -1,1 +1,1 @@
-demisto/vertica:1.0.0.56524
+apecloud/gaussdb:2.23.01.200-r1
