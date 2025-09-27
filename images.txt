@@ -1,2 +1,1 @@
-vertica
-postgres
+demisto/vertica:1.0.0.56524
