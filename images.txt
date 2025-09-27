@@ -1,4 +1,3 @@
-yapi
 debian
 node
 python
