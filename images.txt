@@ -1,5 +1,3 @@
-ubuntu
-jenkins
 toolbox
 yapi
 debian
