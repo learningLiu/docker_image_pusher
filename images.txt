@@ -1,1 +1,1 @@
-apecloud/gaussdb:2.23.01.200-r1
+redis:8.2.0
